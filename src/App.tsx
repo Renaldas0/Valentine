@@ -13,8 +13,9 @@ export default function App() {
   const getNoButtonText = () => {
     const phrases = [
       "No",
+      "Really?",
       "Are you sure?",
-      "Really sure?",
+      "I see how it is",
       "Think again!",
       "Last chance!",
       "Surely not?",
@@ -38,7 +39,7 @@ export default function App() {
       {yesPressed ? (
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
-          <div className="text-4xl font-bold my-4">Ok yay!!!</div>
+          <div className="text-4xl font-bold my-4">Woooooo!!! Cmok Cmok</div>
         </>
       ) : (
         <>

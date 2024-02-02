@@ -39,7 +39,7 @@ export default function App() {
       {yesPressed ? (
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
-          <div className="text-4xl font-bold my-4">Woooooo!!! Cmok Cmok</div>
+          <div className="text-4xl font-bold my-4">Woooooo!!! I knew it! Cmok Cmok</div>
         </>
       ) : (
         <>
